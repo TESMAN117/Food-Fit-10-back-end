@@ -1,0 +1,1 @@
+<img width="128" src="{{ asset('storage/logo.png') }}" class="img-fluid" alt="Responsive image">
